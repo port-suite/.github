@@ -13,5 +13,5 @@ send an email to the address associated with the organisation. In the email you 
 - Which service(s) you think you could contribute to during the time of writing
 - What improvements, changes or enhancements you could bring to the table
 - What your favorite programming language is
-  - There are no right answers, but there ARE wrong answers. If you must ask, it's most likely not a good fit for you
+  - There are no right answers, but there ARE wrong answers
 - At least one fun fact about yourself :)
