@@ -15,3 +15,5 @@ send an email to the address associated with the organisation. In the email you 
 - What your favorite programming language is
   - There are no right answers, but there ARE wrong answers
 - At least one fun fact about yourself :)
+# NOTE!
+This project has been moved to [codeberg](https://codeberg.org/port-suite) for *reasons*. It is no longer being updated here on GitHub
